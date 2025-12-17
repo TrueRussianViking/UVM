@@ -1,0 +1,15 @@
+[
+{"op":"LOAD_CONST","B":5,"C":10},
+{"op":"STORE_MEM","B":5,"C":100},
+
+
+{"op":"LOAD_CONST","B":6,"C":20},
+{"op":"STORE_MEM","B":6,"C":101},
+
+
+{"op":"LOAD_CONST","B":7,"C":0},
+
+
+{"op":"NEQ","B":7,"C":8,"D":100,"E":1},
+{"op":"STORE_MEM","B":8,"C":102}
+]

@@ -1,0 +1,1 @@
+print('Build script placeholder for Windows/Linux/Web')
